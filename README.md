@@ -5,3 +5,7 @@ I’m currently a university student pursuing a **Bachelor of Computer Science**
 ### 🔧 Languages & Technologies
 - **Programming Languages:** C++, JavaScript, PHP, Java, C#
 - **Database Management:** MySQL
+
+![Muhammad Iqbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadIqbalIrfan&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIqbalIrfan&langs_count=10&layout=compact&theme=radical)
